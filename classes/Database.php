@@ -1,6 +1,7 @@
 <?php
 
 class Database {
+    // Hello
     private $server_name = "localhost";
     private $username = "root";
     private $password = ""; // root - for MAMP user
